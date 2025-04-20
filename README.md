@@ -2,6 +2,12 @@
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22D3EE&width=500&lines=Data+Engineer;AWS+Enthusiast;SQL+Specialist;PySpark+Developer)](https://git.io/typing-svg)
 
+## About Me
+I’m **Niraj Patil**, a **Data Engineer** passionate about building scalable **data pipelines** and optimizing processes using **cloud technologies**. With experience in **AWS**, **Kafka**, **Spark**, **Airflow**, **Docker**, and **PostgreSQL**, I specialize in creating efficient, data-driven solutions. Currently, I work at **EY India** in the **Digital Supply Chain** space, driving real-time data analysis and process automation.
+
+Aiming to evolve into a **tech-focused role** with an interest in **finance** and **machine learning**, I’m always looking for new challenges and opportunities to leverage data for impactful insights. **Let’s connect** if you’re interested in collaborating!
+
+
 ---
 
 ## 🧠 Languages Used Across My GitHub
