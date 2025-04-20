@@ -1,4 +1,4 @@
-#  Hey, I'm Niraj Patil! 👋
+# Hey, I'm Niraj Patil! 👋
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22D3EE&width=500&lines=Data+Engineer;AWS+Enthusiast;SQL+Specialist;PySpark+Developer)](https://git.io/typing-svg)
 
@@ -26,6 +26,9 @@
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
 </p>
 
 ### **Languages & Tools**
@@ -36,8 +39,11 @@
   <a href="https://en.wikipedia.org/wiki/SQL">
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="SQL">
   </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <a href="https://www.apache.org/">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-17A4A2?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
+  </a>
+  <a href="https://www.apache.org/">
+    <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark">
   </a>
 </p>
 
@@ -46,16 +52,7 @@
 ## 🚀 **Featured Projects**
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| **[YouTube Data Pipeline](https://github.com/nirajpatil02/youtube-DE-analysis)** | AWS ETL pipeline for YouTube analytics | S3, Glue, PySpark |
+| **[YouTube Data Pipeline in AWS](https://github.com/nirajpatil02/youtube-DE-analysis)** | AWS ETL pipeline for YouTube analytics | S3, Glue, PySpark |
 | **[SQL Data Warehouse](https://github.com/nirajpatil02/sql-data-warehouse-project)** | Medallion architecture in PostgreSQL | SQL, pgAdmin |
 
 ---
-
-## 🌟 **Fun Fact**
-```mermaid
-pie
-    title My Coding Time Distribution
-    "SQL" : 35
-    "Python" : 30
-    "AWS Configs" : 25
-    "Debugging" : 10
