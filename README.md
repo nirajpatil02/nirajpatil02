@@ -2,15 +2,6 @@
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22D3EE&width=500&lines=Data+Engineer;AWS+Enthusiast;SQL+Specialist;PySpark+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://aws.amazon.com/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpatil02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Top Langs" height="165">
-  </a>
-  <a href="https://github.com/nirajpatil02">
-    <img src="https://github-readme-stats.vercel.app/api?username=nirajpatil02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="GitHub Stats" height="165">
-  </a>
-</p>
-
 ---
 
 ## 🛠️ **Tech Stack**
