@@ -6,7 +6,7 @@
 
 ## 🧠 Languages Used Across My GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/nirajpatil02)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpatil02&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/nirajpatil02)
 
 ### **Languages & Tools**
 <p align="left"> 
